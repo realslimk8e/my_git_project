@@ -1,1 +1,2 @@
 Hello I am learning Git and GitHub
+This is Quinn, adding a "Contact" section to your Bio.
